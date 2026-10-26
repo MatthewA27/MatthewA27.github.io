@@ -829,6 +829,18 @@ main {
   line-height: 1.6;
 }
 
+.resume-list,
+.resume-list li,
+.resume-list li strong {
+  color: var(--light-gray);
+}
+
+.skills-list,
+.skills-list li,
+.skills-list li strong {
+  color: var(--light-gray);
+}
+
 
 /**
  * skills 
